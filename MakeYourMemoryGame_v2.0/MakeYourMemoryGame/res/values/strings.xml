@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MakeYourMemoryGame</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="ivImageShow">yes</string>
+    <string name="title_activity_easy_game">EasyGame</string>
+    <string name="title_activity_choose_level">ChooseLevel</string>
+        <string name="clock">Time: 0s</string>
+        <string name="steps">Moves\n0</string>
+
+</resources>
